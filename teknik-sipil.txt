@@ -1,5 +1,9 @@
 Teknik Sipil
 
 - Struktur
+  * bangunan gedung
+  * jembatan
 - Transportasi
+  * fasilitas publik
+  * bandara
 - Bangunan Air
